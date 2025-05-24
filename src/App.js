@@ -1,7 +1,8 @@
 // File Name: App.js
 // Name: Rumsha Ahmed | Student ID: 301477527 | Due Date: May 23rd, 2025
 
-import logo from './logo.svg';
+<img src={logo} alt="Logo" />
+
 import './App.css';
 
 import React from "react";
