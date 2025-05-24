@@ -1,7 +1,7 @@
 // File Name: App.js
 // Name: Rumsha Ahmed | Student ID: 301477527 | Due Date: May 23rd, 2025
 
-import React from "react";
+import logo from './assets/logo.png'; 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
